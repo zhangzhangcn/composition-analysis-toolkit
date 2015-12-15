@@ -1,0 +1,1 @@
+<img src='http://composition-analysis-toolkit.googlecode.com/files/mac_screenshot.png'>
